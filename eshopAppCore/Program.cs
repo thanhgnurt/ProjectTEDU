@@ -13,6 +13,7 @@ namespace eshopAppCore
     {
         public static void Main(string[] args)
         {
+            //kk
             CreateHostBuilder(args).Build().Run();
         }
 
